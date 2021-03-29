@@ -1,14 +1,14 @@
 ## @share/browserslist-config
-Shareable Browserslist config for share's projects.
+Shareable Browserslist config for projects.
 
 ```
-$ npm i -D @share/browserslist-config
+$ npm i -D share-browserslist-config
 ```
 ## Usage
 ```
 {
   "browserslist": [
-    "extends @share/browserslist-config"
+    "extends share-browserslist-config"
   ]
 }
 ```

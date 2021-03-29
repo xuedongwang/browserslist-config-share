@@ -1,5 +1,5 @@
 {
-  "name": "@share/browserslist-config",
+  "name": "share-browserslist-config",
   "version": "0.0.1",
   "description": "customer broswerslist config",
   "main": "index.js",
