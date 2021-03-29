@@ -1,7 +1,7 @@
 {
   "name": "browserslist-config-share",
   "version": "0.0.1",
-  "description": "customer broswerslist config",
+  "description": "shareable browserslist config for projects",
   "main": "index.js",
   "scripts": {
     "test": "jest index.test.js"
