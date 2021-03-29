@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xuedongwang/share-browserslist-config.git"
+    "url": "git+https://github.com/xuedongwang/browserslist-config-share.git"
   },
   "keywords": [
     "broswerslist",
@@ -17,9 +17,9 @@
   "author": "Xuedong Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xuedongwang/share-browserslist-config/issues"
+    "url": "https://github.com/xuedongwang/browserslist-config-share/issues"
   },
-  "homepage": "https://github.com/xuedongwang/share-browserslist-config#readme",
+  "homepage": "https://github.com/xuedongwang/browserslist-config-share#readme",
   "devDependencies": {
     "browserslist": "^4.16.3",
     "jest": "^26.6.3"
