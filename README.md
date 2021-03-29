@@ -1,4 +1,4 @@
-## @share/browserslist-config npm CircleCI
+## @share/browserslist-config
 Shareable Browserslist config for share's projects.
 
 ```
